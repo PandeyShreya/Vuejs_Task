@@ -84,11 +84,11 @@ export default {
 }
 
 .search-input {
-  flex-grow: 1; /* Make input take available space */
+  flex-grow: 1;
   border-radius: 50px;
   border: 1px solid #007bff;
-  padding: 0.5rem 1rem; /* Increase padding for larger input */
-  margin-right: 10px; /* Space between input and button */
+  padding: 0.5rem 1rem; 
+  margin-right: 10px; 
 }
 
 .search-button {
@@ -96,7 +96,7 @@ export default {
   border: 1px solid #007bff;
   background-color: #007bff;
   color: white;
-  padding: 0.5rem 1rem; /* Padding for button */
+  padding: 0.5rem 1rem; 
 }
 
 .search-button:hover {
