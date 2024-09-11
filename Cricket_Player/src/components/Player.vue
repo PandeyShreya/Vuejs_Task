@@ -93,14 +93,13 @@ export default {
   margin-top: 20px;
 }
 
-/* Responsive Grid for Cards */
 .card-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem; /* Space between cards */
+  gap: 1rem; 
 }
 
 .card-row > * {
-  flex: 1 1 calc(25% - 1rem); /* Adjust to fit 4 cards per row, accounting for gap */
+  flex: 1 1 calc(25% - 1rem); 
 }
 </style>
