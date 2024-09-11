@@ -48,7 +48,7 @@
   }
   
   .card-text {
-    margin-bottom: 0.5rem; /* Adjusted spacing between card-text elements */
+    margin-bottom: 0.5rem; 
     color: #495057;
   }
   </style>
